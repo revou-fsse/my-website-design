@@ -21,4 +21,4 @@ Inspiration: <https://unsplash.com/>
 
 ![Miro](https://user-images.githubusercontent.com/67870639/210628210-f45e8923-8909-4ead-8ccd-e95e5f4892d2.png)
 
-![Figma](assets/contact.png)
+![Figma](https://user-images.githubusercontent.com/67870639/210874536-ff57afc2-a9d2-45f7-89e3-7069fb5bde14.png)
