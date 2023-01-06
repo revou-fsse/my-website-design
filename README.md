@@ -12,7 +12,7 @@ Inspiration: <https://unsplash.com/>
 
 ## Requirement
 
-- Make your design with theme e-commerce
+- Make your design with theme company profile
 - Make 2 page homepage and list product
 - Make link inspiration as things that help make your design
 - Make sure your design not same with example
